@@ -1,6 +1,6 @@
 # myfirst_app
 
-A new Flutter project.
+Basics About Flutter Widgets.
 
 ## Getting Started
 
